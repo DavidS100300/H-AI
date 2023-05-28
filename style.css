@@ -117,3 +117,38 @@ nav ul li a:hover {
   margin-right: auto;
   width: 61%;
 }
+
+
+.hero h1{
+    text-align: center;
+  }
+
+.hero h2 {
+    font-size: 36px;
+    margin-bottom: 20px;
+    text-align: center;
+  }
+
+  .hero p {
+    font-size: 18px;
+    color: #555;
+    margin-bottom: 40px;
+    text-align: center;
+  }
+
+
+  .rating {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+  }
+  
+  .rating-icon {
+    font-size: 24px;
+    margin-right: 5px;
+  }
+  
+  .rating-text {
+    font-size: 18px;
+  }
