@@ -128,26 +128,25 @@ nav ul li a:hover {
     text-align: center;
   }
 
-  .hero p {
+.hero p {
     font-size: 18px;
     color: #555;
     margin-bottom: 40px;
     text-align: center;
   }
 
-
-  .rating {
+.rating {
     display: flex;
     align-items: center;
     justify-content: center;
     margin-top: 20px;
   }
   
-  .rating-icon {
+.rating-icon {
     font-size: 24px;
     margin-right: 5px;
   }
   
-  .rating-text {
+.rating-text {
     font-size: 18px;
   }
