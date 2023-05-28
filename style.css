@@ -135,18 +135,3 @@ nav ul li a:hover {
     text-align: center;
   }
 
-.rating {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    margin-top: 20px;
-  }
-  
-.rating-icon {
-    font-size: 24px;
-    margin-right: 5px;
-  }
-  
-.rating-text {
-    font-size: 18px;
-  }
